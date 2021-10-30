@@ -1,0 +1,5 @@
+RusDuino7Seg KEYWORD1
+SevSeg KEYWORD1
+
+sendByte KEYWORD2
+onOffDecimalPoint KEYWORD2

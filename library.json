@@ -1,0 +1,16 @@
+{
+“name”: “SmartButton”,
+“keywords”: “button, abstract class, oop”,
+“description”: “The SmartButton abstract class for using custom buttons in Arduino sketches.”,
+“repository”: {
+	“type”: “git”,
+	“url”: “https://github.com/”
+	},
+“version”: “1.0.0”,
+“authors”: {
+	“name”: “RusDuino”,
+	“url”: “https://github.com/”
+	},
+“frameworks”: “arduino”,
+“platforms”: “*”
+}
